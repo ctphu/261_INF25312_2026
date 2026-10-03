@@ -7,7 +7,8 @@
 | 3 | Phòng khám đa khoa | Bệnh án theo thời gian, trạng thái lượt khám, tồn kho thuốc | Trương phương nam - 2506022012<br>Mai Đông Duy - 2606042062 |
 | 4 | Chuỗi cửa hàng tiện lợi | Tồn kho đa chi nhánh, khuyến mãi, trả hàng | |
 | 5 | Đặt phòng khách sạn / homestay | Phòng trống theo khoảng ngày, chính sách hủy, giá theo mùa | Nguyễn Anh Khoa MSSV: 2606042025<br>Huỳnh Anh Khoa MSSV: 2606042040<br>Lê Nguyễn Bảo Nam MSSV: 2606042023 |
-| 6 | Nhân sự – chấm công – tính lương | Quy tắc tính lương, duyệt nghỉ phép phân cấp | |
+| 6 | Nhân sự – chấm công – tính lương | Quy tắc tính lương, duyệt nghỉ phép phân cấp |Trần Viết Nam - 2606042010
+Trương Đăng Dương - 2613042001 |
 | 7 | Trung tâm ngoại ngữ / gia sư | Xung đột lịch, bảo lưu – chuyển lớp, hoàn phí | |
 | 8 | Đặt và giao đồ ăn | Vòng đời đơn nhiều tác nhân, gán tài xế, đối soát | Nguyễn Minh Đức<br>Nguyễn Trọng Khang<br>Nguyễn Gia Huy |
 | 9 | Gara bảo dưỡng xe | Lịch sử theo xe, báo giá có phiên bản, định mức công | |
